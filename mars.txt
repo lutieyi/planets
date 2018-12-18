@@ -1,2 +1,5 @@
 Status Report:
 Operators found dead inside the shelter.
+
+Status Report: 
+Oxygen level low. And also water.
