@@ -2,4 +2,4 @@ Status Report:
 Operators found dead inside the shelter.
 
 Status Report: 
-Oxygen level low. And also water.
+System all green. Explorer waiting for orders.
